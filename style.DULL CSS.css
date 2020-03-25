@@ -1,0 +1,30 @@
+h1{
+    color: purple;
+    background-color: seashell;
+}
+
+h2{
+    color:purple;
+    background-color: seashell;
+    text-align: center;
+}
+
+h3 {
+    margin-bottom: 15px;
+    color: purple;
+    background-color: seashell;
+
+}
+
+img {
+    box-shadow: 10px 10px 5px snow;
+}
+
+section {
+    background-color: seashell;
+}
+
+p {
+    background-color: purple;
+    font-size: 12px;
+}
